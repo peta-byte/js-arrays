@@ -6,6 +6,10 @@ They may be leveraging simple DOM functions like `createElement` for that magic.
 
 Probably to greater extents than this example...🤔
 
+<p align="center">
+<img height='500' src='https://github.com/peta-byte/js-arrays/blob/master/js-arrays.png?raw=true' />
+</p>
+
 <hr />
 
 ### References:
